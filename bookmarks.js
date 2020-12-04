@@ -3,21 +3,18 @@ const bookmarks = [
   {
     title: "Daily",
     links: [
-      { name: "Inbox", url: "https://inbox.google.com" },
-      { name: "GitHub", url: "https://github.com" },
-      { name: "Drive", url: "https://drive.google.com" },
+     // { name: "Inbox", url: "https://inbox.google.com" },
+     // { name: "GitHub", url: "https://github.com/jamiewho" },
+     // { name: "Drive", url: "https://drive.google.com" },
     ],
   },
   {
     title: "Media",
     links: [
       { name: "Youtube", url: "https://youtube.com" },
-      { name: "Netflix", url: "https://netflix.com" },
-      { name: "Crunchyroll", url: "https://crunchyroll.com" },
-      {
-        name: "Amazon Prime",
-        url: "https://www.amazon.com/Amazon-Video",
-      },
+      { name: "GitHub", url: "https://github.com/jamiewho" },
+      
+      
     ],
   },
   {
